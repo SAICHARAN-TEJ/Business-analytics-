@@ -3,7 +3,7 @@ A small collection of business analytics projects covering price/revenue optimiz
 
 🔗 Live Dashboard
 
-Check out the interactive Tableau dashboard here: Business Analytics Sample – Tableau Public
+Check out the interactive Tableau dashboard here: https://public.tableau.com/app/profile/sai.charan.tej.m/viz/BusinessAnalyticsSample/Dashboard1
 
 📁 Repository Contents
 File	Description
