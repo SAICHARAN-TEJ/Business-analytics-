@@ -5,9 +5,11 @@ A small collection of business analytics projects covering price/revenue optimiz
 
 Check out the interactive Tableau dashboard here: https://public.tableau.com/app/profile/sai.charan.tej.m/viz/BusinessAnalyticsSample/Dashboard1
 
-Another dashboard: https://public.tableau.com/authoring/Task4_17859073783450/Dashboard1#1
+# Another dashboard: https://public.tableau.com/authoring/Task4_17859073783450/Dashboard1#1
 
-Supermarket:https://public.tableau.com/views/Supermarketdata_17878972251950/Sheet5?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+# Supermarket:https://public.tableau.com/views/Supermarketdata_17878972251950/Sheet5?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+# Supermarket number 2 : https://public.tableau.com/views/Superstore_17883259406060/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 📁 Repository Contents
 File	Description
