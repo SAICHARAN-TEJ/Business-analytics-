@@ -18,6 +18,9 @@ https://public.tableau.com/views/Superstore_17883259406060/Dashboard1?:language=
 #### Supermarket number 3 :
 https://public.tableau.com/views/Task8_17889320372660/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+#### Supermarket number 4 :
+https://public.tableau.com/views/Week9_17897112777150/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 📁 Repository Contents
 File	Description
 Fruit_analtsis.py	Price-vs-revenue analysis for a juice shop — computes revenue at different price points, identifies the price that maximizes revenue, and visualizes the results with a bar chart.
